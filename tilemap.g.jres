@@ -15,7 +15,7 @@
             "sprites.dungeon.floorDark1",
             "sprites.dungeon.chestClosed"
         ],
-        "displayName": "level1"
+        "displayName": "tile map"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
